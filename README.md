@@ -11,7 +11,7 @@ C:\Users\cheta\PycharmProjects\pythonProject>pytest --cov
 platform win32 -- Python 3.9.2, pytest-6.2.2, py-1.10.0, pluggy-0.13.1
 rootdir: C:\Users\cheta\PycharmProjects\pythonProject
 plugins: cov-2.11.1
-collected 9 items                                                                                                                                                                         
+collected 9 items
 
 test_collatz.py ..                                                                                                                                                                  [ 22%]
 test_greet.py .                                                                                                                                                                     [ 33%]
