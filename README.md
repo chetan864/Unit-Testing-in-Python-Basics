@@ -3,6 +3,9 @@ Unit Testing in Python — The Basics URL: https://medium.com/swlh/unit-testing-
 
 GIT BASICS URL: https://towardsdatascience.com/git-commands-cheat-sheet-software-developer-54f6aedc1c46
 
+Python Pre-Commit Hooks: Python Pre-Commit Hooks Setup in a single video!(https://www.youtube.com/watch?v=Wmw-VGSjSNg&ab_channel=SoftwareEngineerHaydn,
+https://pre-commit.com/)
+
 C:\Users\cheta\PycharmProjects\pythonProject>pytest --cov
 ================================================================================== test session starts ===================================================================================
 platform win32 -- Python 3.9.2, pytest-6.2.2, py-1.10.0, pluggy-0.13.1
